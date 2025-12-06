@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "deviceData": "KqsHT6hZzhL/Hrj+sYiQAc5QcFmwZ4ZVRvH7wKDsil3tHFp53IJxcrd+2vaBHML7h9tSwQ==",
+        "reserved20": b"g]B\x16rC\x0cX'V^@WC"
+    },
+    {
+        "id": 2,
+        "deviceData": "KqsHTwkcRqZHGJyS00b83HsIuqLj8NK/uMEd2EJoF+8Uu5ZWiv4NtJJFMujtsAPLSsG2sw==",
+        "reserved20": b'7\x01FEw\x10Y\x08}R\x0b\x12\rK'
+    },
+    {
+        "id": 3,
+        "deviceData": "KqsHT0ZWJ4l63ebnNwhytyMAveUndaBI2tjuQqzXlPv5M25HGC4dhLPIkTHd0yOsV/iGIw==",
+        "reserved20": b'7\x01FEw\x10Y\x08}R\x0b\x12\rK'
+    },
+    {
+        "id": 4,
+        "deviceData": "KqsHT2XQgUsk2WptecN4udp597B8IaKIP7bWoofIC8m5reVnH8+SJwAYgMSulNSm852KnA==",
+        "reserved20": b'5U\x11MuBYU#\x05QB_\x13'
+    }
+]
