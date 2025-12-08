@@ -1,22 +1,22 @@
 [
     {
         "id": 1,
-        "deviceData": "KqsHT6hZzhL/Hrj+sYiQAc5QcFmwZ4ZVRvH7wKDsil3tHFp53IJxcrd+2vaBHML7h9tSwQ==",
-        "reserved20": b"g]B\x16rC\x0cX'V^@WC"
+        "deviceData": "KqsHT5QvO5M37BmAV/+qhbxvtEDFVz5ONv8MDJBxDGaLawv9VF6FzOsy6uYi8LtPmj7ORg==",
+        "reserved20": b'e\x07JG~\x17\\_u\x05]BZJ'
     },
     {
         "id": 2,
-        "deviceData": "KqsHTwkcRqZHGJyS00b83HsIuqLj8NK/uMEd2EJoF+8Uu5ZWiv4NtJJFMujtsAPLSsG2sw==",
-        "reserved20": b'7\x01FEw\x10Y\x08}R\x0b\x12\rK'
+        "deviceData": "KqsHTyCIHciCY5kp3sAFwVXOykGpD1b0b02kC3ddXG3j72N89higT6cO9gnYpE9Y36sZXA==",
+        "reserved20": b'5QDBq\x14^Y#\\^\x17WG'
     },
     {
         "id": 3,
-        "deviceData": "KqsHT0ZWJ4l63ebnNwhytyMAveUndaBI2tjuQqzXlPv5M25HGC4dhLPIkTHd0yOsV/iGIw==",
+        "deviceData": "KqsHTxVeIVab29536MstKcVHGQ64qZUPF0Gj65A2e1YLBajEJKIqUNEva7iebaT5xrqEcQ==",
         "reserved20": b'7\x01FEw\x10Y\x08}R\x0b\x12\rK'
     },
     {
         "id": 4,
-        "deviceData": "KqsHT2XQgUsk2WptecN4udp597B8IaKIP7bWoofIC8m5reVnH8+SJwAYgMSulNSm852KnA==",
-        "reserved20": b'5U\x11MuBYU#\x05QB_\x13'
+        "deviceData": "KqsHT/P0iiPY0jkh3cpQF8SLsiGyIOOu2BRu5akTW/+JjwvWKfgLljjeBMXhxLNhsNoAvQ==",
+        "reserved20": b'2PKEtG\x0b_|V_\x12\\K'
     }
 ]
